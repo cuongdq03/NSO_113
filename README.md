@@ -148,22 +148,15 @@ I enjoy building labs, solving networking problems, automating repetitive tasks 
 ---
 
 # 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+https://github-readme-activity-graph.vercel.app/
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
-</p>
 
 ---
 
