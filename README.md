@@ -1,79 +1,106 @@
 <div align="center">
 
-# Hi there 👋, I'm Quốc Cường
+# 👋 Hi, I'm Quốc Cường
 
 ### 🌐 Network Engineer | 🔐 Cyber Security | 🐧 Linux | 🐍 Python
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=CCNA+Student;Network+Engineer;Linux+Administrator;Cyber+Security+Enthusiast;Python+for+Network+Automation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=CCNA+Candidate;Network+Engineer;Linux+System+Administrator;Cyber+Security+Enthusiast;Python+for+Network+Automation;Never+Stop+Learning"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 💻 Terminal
 
-🎓 Information Technology Student
+```bash
+$ whoami
 
-🌐 Passionate about
-
-- Enterprise Networking
-- Network Security
-- Linux System Administration
-- Python Automation
-- Cloud Infrastructure
-
-🎯 Current Goal
-
-Become a Network & Cyber Security Engineer.
+Name        : Quốc Cường
+Location    : Vietnam
+Role        : Information Technology Student
+Focus       : Network Engineering & Cyber Security
+Learning    : CCNA | Linux | Python | Docker | Network Automation
+Goal        : Become a Network & Security Engineer
+```
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 About Me
 
-## Networking
+I am passionate about designing, deploying and securing enterprise networks.
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-00599C?style=for-the-badge&logo=wireshark&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-0078D4?style=for-the-badge)
+My interests include:
 
----
+- 🌐 Enterprise Networking
+- 🔐 Network Security
+- 🐧 Linux System Administration
+- 🐍 Python Network Automation
+- ☁️ Cloud Infrastructure
+- 📡 5G Core Network
 
-## Operating System
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
-
----
-
-## Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+I enjoy building labs, solving networking problems, automating repetitive tasks and continuously improving my technical skills.
 
 ---
 
-## Tools
+# 🛠 Tech Stack
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge)
+## 🌐 Networking
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,python,docker,bash,git,github" />
+</p>
+
+**Networking**
+
+- Cisco IOS
+- TCP/IP
+- Routing & Switching
+- OSPF
+- BGP
+- VLAN
+- STP
+- ACL
+- NAT
+- DHCP
+- DNS
+- VPN
+- Wireshark
 
 ---
 
-# 📚 Currently Learning
+## 🐧 Linux
 
-✅ CCNA
+- Ubuntu
+- Rocky Linux
+- SSH
+- Bash
+- Systemd
+- Cron
+- NFS
+- Samba
+- Apache
+- Docker
 
-✅ Linux Administration
+---
 
-✅ Python for Network Automation
+## 🔐 Security
 
-✅ Network Security
+- Wireshark
+- Nmap
+- UFW
+- iptables
+- Snort
+- Suricata
+- IDS
+- Firewall
 
-✅ Docker
+---
 
-✅ 5G Core Network
+## 🐍 Programming
+
+- Python
+- C
+- Bash
 
 ---
 
@@ -81,22 +108,40 @@ Become a Network & Cyber Security Engineer.
 
 | Project | Description |
 |----------|-------------|
-| Cisco-Labs | VLAN, STP, OSPF, ACL, NAT, DHCP |
-| Linux-Labs | NTP, DHCP, DNS, SSH, Apache, NFS |
-| Wireshark-Analysis | TCP, HTTP, DNS, TLS Packet Analysis |
-| Python-Network | Port Scanner, Ping Sweep, SSH Automation |
-| Network-Security | Firewall, Snort, IDS, Nmap |
-| 5G-Core-Network | SBA Architecture, AMF, SMF, UPF |
+| 🌐 Cisco-Labs | VLAN, STP, OSPF, ACL, NAT, DHCP, BGP |
+| 🐧 Linux-Labs | SSH, DHCP, DNS, Apache, Docker, NFS |
+| 🔐 Wireshark-Analysis | TCP, HTTP, DNS, TLS Packet Analysis |
+| 🐍 Python-Network | Port Scanner, SSH Automation, Ping Sweep |
+| 🛡 Network-Security | Firewall, Snort, Nmap |
+| 📡 5G-Core | AMF, SMF, UPF, NRF, SBA |
 
 ---
 
-# 📈 GitHub Statistics
+# 📚 Currently Learning
+
+```text
+███████████████████████░░░  CCNA
+
+████████████████████░░░░░░  Linux Administration
+
+█████████████████░░░░░░░░░  Python Automation
+
+████████████████░░░░░░░░░░  Network Security
+
+█████████████░░░░░░░░░░░░░  Docker
+
+██████████░░░░░░░░░░░░░░░░  DevNet
+```
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -106,13 +151,13 @@ Become a Network & Cyber Security Engineer.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -122,27 +167,71 @@ Become a Network & Cyber Security Engineer.
 
 ---
 
-# 🏆 Certifications
+# 🗺 Learning Roadmap
 
-📖 CCNA, Linux, Python, Network Security
+```text
+CCNA          ████████████████
+
+Linux         ██████████████
+
+Python        ████████████
+
+Docker        ████████
+
+DevNet        ██████
+
+Cyber Security █████████
+```
 
 ---
 
 # 🎯 2026 Goals
 
-- Complete CCNA
-- Build 100+ Cisco Labs
-- Learn Docker
-- Master Linux Server
-- Learn Network Automation
-- Build Security Lab
-- Complete 5G Core Lab
+- ✅ Complete CCNA
+- ✅ Build 100+ Cisco Labs
+- ✅ Learn Linux Administration
+- ✅ Master Network Troubleshooting
+- ✅ Learn Python Network Automation
+- ✅ Deploy Docker Services
+- ✅ Build Home Lab
+- ✅ Learn Network Security
+- ✅ Study 5G Core Network
 
 ---
 
+# 📜 Certifications
 
-## ⭐ Thanks for visiting my profile ⭐
+- 🎓 CCNA *(In Progress)*
+- 🎓 Linux Administration *(Learning)*
+- 🎓 Python Programming
+- 🎓 Network Security Fundamentals
 
-"Never stop learning. Every lab makes you a better engineer."
+---
+
+# 📫 Connect with Me
+
+📧 Email
+
+```
+duongquoccuongfvt@gmail.com  
+```
+
+🌐 GitHub
+
+```
+https://github.com/cuongdq03 
+```
+
+---
+
+<div align="center">
+
+## ⚡ Philosophy
+
+> **"A good Network Engineer doesn't just configure devices—he understands how data flows, why failures happen, and how to secure every packet."**
+
+---
+
+⭐ Thanks for visiting my profile!
 
 </div>
